@@ -1,6 +1,9 @@
 'use strict';
 
 import Vue from 'vue';
+// import F2 from '@antv/f2';
+
+// Vue.use(F2);
 
 Vue.config.devtools = true;
 
